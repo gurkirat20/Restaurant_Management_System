@@ -1,0 +1,6 @@
+101 , Nilesh Gupta , 40 , Montotype Road , 8990035690 , guptaz@gmail.com , Manager
+102 , Amit Singhal , 25 , Attimabbe Road , 9881675890 , singhalamit@gmail.com , Waiter
+120 , Vic Gundotra , 29 , A.V Road , 8881485610 , vic999@yahoo.co.in , Waiter
+145 , Krishna Bharat , 22 , Lavelle Road , 7802569900 , bharat.krishna@gmail.com , Waiter
+110 , Lalitesh Katragadda , 30 , Manjappa Road , 6258910209 , lalitest_K4@gmail.com , Waiter
+
