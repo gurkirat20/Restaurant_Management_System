@@ -53,5 +53,5 @@ The Restaurant Management System is a comprehensive Java-based application with 
 
 #### Bills and Payments
 <img src="project ss/Show_Bill.jpg" alt="Show Bill" width="200" height="200"></img> 
-<img src="project ss/Sales" alt="Sales" width="200" height="200"></img> 
+<img src="project ss/Sales.jpg" alt="Sales" width="200" height="200"></img> 
 
