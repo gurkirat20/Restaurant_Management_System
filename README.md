@@ -1,4 +1,4 @@
-# Restaurant_Management_System
+# Restaurant Management System
 
 <br>
 
