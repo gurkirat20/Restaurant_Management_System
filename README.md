@@ -1,6 +1,6 @@
 # Restaurant Management System
 
-https://github.com/gurkirat20/Restaurant_Management_System/assets/91982831/ce8222ab-eed3-4cbf-9ea8-9734ee43f762
+https://github.com/gurkirat20/Restaurant_Management_System/assets/91982831/4f8e40e4-ca60-4797-a048-3ee45905fbd0
 
 <br>
 
@@ -24,37 +24,4 @@ The Restaurant Management System is a comprehensive Java-based application with 
   - **Sales Tracking:** Maintain a comprehensive record of sales, including order details, timestamps, and customer information for business analysis and reporting.
 
 <br>
-
-## Project Screenshots
-
-#### Login and Register
-<img src="project ss/Login_Page.jpg" alt="Login Page" width="200" height="200"></img> 
-<img src="project ss/Register.jpg" alt="Register Page" width="200" height="200"></img> 
-
-#### Home Page
-<img src="project ss/Home_Page.jpg" alt="Home Page" width="200" height="200"></img> 
-
-#### Employee Management
-<img src="project ss/Manage_Employee.jpg" alt="Manage Employee" width="200" height="200"></img> 
-<img src="project ss/Add_Employee1.jpg" alt="Add Employee" width="200" height="200"></img>
-<img src="project ss/Add_Employee1.jpg" alt="Add Employee" width="200" height="200"></img>
-<img src="project ss/Update_Employee.jpg" alt="Update Employee" width="200" height="200"></img> 
-<img src="project ss/Update_Emplyee2.jpg" alt="Update Employee" width="200" height="200"></img> 
-<img src="project ss/Remove_Employee1.jpg" alt="Remove Employee" width="200" height="200"></img> 
-<img src="project ss/Remove_Employee2.jpg" alt="Remove Employee" width="200" height="200"></img> 
-<img src="project ss/View_Employee.jpg" alt="View Employee" width="200" height="200"></img> 
-
-#### Order Management
-<img src="project ss/Manage_Order.jpg" alt="Manage Orders" width="200" height="200"></img> 
-<img src="project ss/Manage_Order2.jpg" alt="Manage Orders" width="200" height="200"></img> 
-<img src="project ss/Show_Menu.jpg" alt="Show Menu" width="200" height="200"></img> 
-<img src="project ss/Add_Item1.jpg" alt="Add Item" width="200" height="200"></img>
-<img src="project ss/Add_Item4.jpg" alt="Add Item" width="200" height="200"></img>
-<img src="project ss/Add_Item5.jpg" alt="Add Item" width="200" height="200"></img>
-<img src="project ss/Remove_Item1.jpg" alt="Remove Item" width="200" height="200"></img> 
-<img src="project ss/Remove_Item2.jpg" alt="Remove Item" width="200" height="200"></img> 
-
-#### Bills and Payments
-<img src="project ss/Show_Bill.jpg" alt="Show Bill" width="200" height="200"></img> 
-<img src="project ss/Sales.jpg" alt="Sales" width="200" height="200"></img> 
 
